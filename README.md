@@ -1,2 +1,2 @@
 # wild-tiles
-A web-based online tile matching game.
+A web-based rummy-like online matching game.
