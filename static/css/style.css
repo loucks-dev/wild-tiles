@@ -1,0 +1,29 @@
+.card
+{
+    height: 1rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+/* Card Back */
+.card-back {
+    
+}
+
+/* Flip Animation */
+.card.flip .card-front {
+}
+
+.card.flip .card-back {
+}
+
+.card-front, .card-back {
+}
+
+.card-front {
+}
+
+.card-back {
+}
